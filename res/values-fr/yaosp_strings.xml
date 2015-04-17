@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015 Yank555.lu Android Open Source Project
+     Copyright (C) 2012-2015 SlimRoms Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Proximity speaker -->
+    <string name="display_category_prox_auto_speaker_title">Réglages mains libres par proximité</string>
+    <string name="prox_auto_speaker_title">Mains libres automatique</string>
+    <string name="prox_auto_speaker_summary">Activer le mode mains libres dès que le téléphone est éloigné du visage</string>
+    <string name="prox_auto_speaker_delay_title">Délai mains libres automatique</string>
+    <string name="prox_auto_speaker_delay_summary">Délai avant d\'activer le mode mains libres</string>
+    <string name="prox_auto_speaker_incall_only_title">Uniquement pendant un appel</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Lors d\'appels sortants le haut parleur ne sera activé que lorseque l\'appelé déchroche</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Le haut parleur sera actif dès que vous êtes en ligne (défaut)</string>
+
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Retourner le téléphone</string>
+
+    <!-- Dialog title of the flip action setting. -->
+    <string name="flip_action_dialog_title">Retourner le téléphone pour\u2026</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary">Retourner le téléphone <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Values for flip action array entries -->
+    <string name="entry_do_nothing">Ne rien faire</string>
+    <string name="entry_mute_ringer">Arréter la sonnerie</string>
+    <string name="entry_dismiss_call">Refuser l\'appel</string>
+    <string name="summary_do_nothing">ne fera rien</string>
+    <string name="summary_mute_ringer">arrêtera la sonnerie</string>
+    <string name="summary_dismiss_call">refuserera l\'appel</string>
+
+</resources>
