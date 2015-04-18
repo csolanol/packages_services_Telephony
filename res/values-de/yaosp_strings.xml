@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015 Yank555.lu Android Open Source Project
+     Copyright (C) 2012-2015 SlimRoms Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Proximity speaker -->
+    <string name="display_category_prox_auto_speaker_title">Freisprecheinrichtung Einstellungen</string>
+    <string name="prox_auto_speaker_title">Automatische Annäherungssensor Freisprecheinrichtung</string>
+    <string name="prox_auto_speaker_summary">Aktiviert die Freisprecheinrichtung wenn das Gerät vom Gesicht entfernt wird.</string>
+    <string name="prox_auto_speaker_delay_title">Annäherungssensor Verzögerung</string>
+    <string name="prox_auto_speaker_delay_summary">Verzögerung bis Lautsprecher eingeschaltet wird</string>
+    <string name="prox_auto_speaker_incall_only_title">Nur bei eingehenden Anrufen</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Bei ausgehenden Anrufen wird der Lautsprecher erst eingeschaltet nachdem der andere Teilnehmer abnimmt</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Der Lautsprecher wird immer wärend eines Anrufes eingeschaltet (Standard)</string>
+
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Umdreh-Aktion</string>
+
+    <!-- Dialog title of the flip action setting. -->
+    <string name="flip_action_dialog_title">Gerät umdrehen um\u2026</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary">Gerät umdrehen wird <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Values for flip action array entries -->
+    <string name="entry_do_nothing">Nichts zu tun</string>
+    <string name="entry_mute_ringer">Klingelton stumm zu schalten</string>
+    <string name="entry_dismiss_call">Anruf zu beenden</string>
+    <string name="summary_do_nothing">nichts tun</string>
+    <string name="summary_mute_ringer">den Klingelton stumm schalten</string>
+    <string name="summary_dismiss_call">den Anruf beenden</string>
+
+</resources>
