@@ -43,4 +43,8 @@
     <string name="summary_mute_ringer">arrêtera la sonnerie</string>
     <string name="summary_dismiss_call">refuserera l\'appel</string>
 
+    <!-- Title for the option managing whether or not to use intrusive incall UI. -->
+    <string name="use_intrusive_call_title">Notification d\'appel en plein écran</string>
+    <string name="use_intrusive_call_summary">Notifier les appels entrant en plein écran même si l\'appareil n\'est pas vérouillé</string>
+
 </resources>
